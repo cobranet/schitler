@@ -1,0 +1,15 @@
+.gamemain {
+    border: 2px solid black;
+}
+
+.myimage {
+    border: 1px solid #c5c5c5;
+    padding: 3px;
+    width: 30px;
+    height: 30px;
+}
+
+.othersimage {
+    width: 30px;
+    height: 30px;
+}

@@ -1,0 +1,13 @@
+import React from 'react';
+
+const Others = (props)=>{
+    return props.others.map((player)=>{
+	    return (
+		<div>
+		  Others
+		</div>
+	    );
+    });
+};
+
+export default Others;
